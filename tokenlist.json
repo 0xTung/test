@@ -1,0 +1,40 @@
+{
+  "name": "SpaceSwap",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "SpaceSwap",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 42220,
+      "address": "0xF66Abb0d63C60D39FA9E6E9c20ABE0F7635E4D94",
+      "name": "SNT",
+      "symbol": "SNT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 42220,
+      "address": "0xe9eCec2cfA95D7df0644B6c8BaDD3BC1c3Cf39BA",
+      "name": "Silicoin",
+      "symbol": "Sli",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x146ae897Cc7f32B35839d6fEc7fC9e2694817ffa",
+      "name": "wutong coin",
+      "symbol": "WTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 3
+  }
+}
